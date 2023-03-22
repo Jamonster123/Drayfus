@@ -1,17 +1,17 @@
 {
-    "name": "Example LEB Mod",
-    "description": "This is an example mod, your description goes here!",
-    "authors": "DBTDerpbox",
+    "name": "Drayfus",
+    "description": "Fight your foes in the end dimension but with a twist!",
+    "authors": "Jamonster123",
     "version": "1",
-    "id": "examplemod",
+    "id": "drayfus.end",
     "type": "map",
     "pack": "vanilla",
     "hassmall": false,
     "haslarge": true,
     "haslargeplus": false,
     "hasremastered": false,
-    "centercoords_small": "0 0 0",
-    "centercoords_large": "0 0 0",
-    "centercoords_largeplus": "0 0 0",
-    "centercoords_remastered": "0 0 0"
+    "centercoords_small": "0 69 0",
+    "centercoords_large": "0 69 0",
+    "centercoords_largeplus": "0 69 0",
+    "centercoords_remastered": "0 69 0"
 }
